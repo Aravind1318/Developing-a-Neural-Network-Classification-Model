@@ -91,17 +91,20 @@ Include screenshot of the dataset.
 
 ## Confusion Matrix
 
-<img width="1270" height="257" alt="image" src="https://github.com/user-attachments/assets/0f455dbf-67f8-4958-9482-6b7b2ec0893c" />
+<img width="568" height="492" alt="image" src="https://github.com/user-attachments/assets/09bce951-2ad0-41ea-b88d-0842fe445c5d" />
+
 
 
 ## Classification Report
 
-<img width="667" height="451" alt="image" src="https://github.com/user-attachments/assets/7f3747b1-3998-484f-9014-83baff353205" />
+<img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/3bb572c8-02de-467a-8c71-5e701feb18be" />
+
 
 
 ### New Sample Data Prediction
 
-<img width="423" height="108" alt="image" src="https://github.com/user-attachments/assets/569fc331-f540-4a8b-9966-c38a26131a6c" />
+<img width="326" height="78" alt="image" src="https://github.com/user-attachments/assets/c06fe106-a61f-4194-aded-c97a8a4408b0" />
+
 
 
 ## RESULT
